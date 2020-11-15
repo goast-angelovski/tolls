@@ -1,13 +1,13 @@
 # tolls
 Web app project for calculating toll prices.
 
-Group Members:
+Group Members:<br>
 Gorast Angelovski 181519<br>
 Filip Najdoski 181555<br>
 Filip Naumovski 181506<br>
 Nenad Pantikj 181514<br>
 
-Using this command with Osmosis i got a osm file for all the pay tolls in Macedonia:
+Using this command with Osmosis i got a osm file for all the pay tolls in Macedonia:<br>
 osmosis --read-pbf macedonia-latest.osm.pbf --node-key-value keyValueList="barrier.toll_booth" --write-xml tolls.osm
 
 Using osmconvert i converted the previous osm file to tolls.csv
