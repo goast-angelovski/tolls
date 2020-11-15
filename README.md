@@ -7,11 +7,7 @@ Filip Najdoski 181555<br>
 Filip Naumovski 181506<br>
 Nenad Pantikj 181514<br>
 
-I created a data folder to store the needed data
+The goal of our project is to allow users to select their starting and ending points within Macedonia, after which they will be given a suggested route using openstreetmap's API.<br>
+Aside from the route, the users shall be given the total price they will need to spend on tolls (in their preferred curency), as well as suggested payment methods.
 
-Using this command with Osmosis i got a osm file for all the pay tolls in Macedonia:<br>
-osmosis --read-pbf macedonia-latest.osm.pbf --node-key-value keyValueList="barrier.toll_booth" --write-xml tolls.osm
-
-Using osmconvert i converted the previous osm file to tolls.csv
-
-We also gathered data from http://www.roads.org.mk/320/cenovnik-po-delnici?fbclid=IwAR3lv-FZhEpS_vZTMVtMcXg20ZKAA6AGmdem8pQ6pbYCW0dYmPHH0OxfQOM in order to update OSM with the most current available data.
+The data folder contains all the data used for this project, gathered from OSM and the website roads.org.mk<br>
