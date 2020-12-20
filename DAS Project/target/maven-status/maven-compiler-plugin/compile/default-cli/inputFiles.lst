@@ -1,0 +1,14 @@
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\model\exceptions\InvalidArgumentsException.java
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\service\impl\AuthServiceImpl.java
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\web\controller\HomeController.java
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\model\User.java
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\web\controller\RegisterController.java
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\service\RouteService.java
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\model\exceptions\InvalidUserCredentialsException.java
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\repository\jpa\RouteRepository.java
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\model\exceptions\PasswordsDoNotMatchException.java
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\model\Route.java
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\service\AuthService.java
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\service\impl\RouteServiceImpl.java
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\ProjectApplication.java
+C:\Users\goras\Desktop\DAS Project\src\main\java\com\patarini\project\repository\jpa\UserRepository.java

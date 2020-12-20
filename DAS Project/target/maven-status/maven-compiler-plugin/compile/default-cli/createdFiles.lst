@@ -1,0 +1,14 @@
+com\patarini\project\repository\jpa\UserRepository.class
+com\patarini\project\service\RouteService.class
+com\patarini\project\service\impl\RouteServiceImpl.class
+com\patarini\project\service\impl\AuthServiceImpl.class
+com\patarini\project\model\exceptions\InvalidArgumentsException.class
+com\patarini\project\service\AuthService.class
+com\patarini\project\model\Route.class
+com\patarini\project\repository\jpa\RouteRepository.class
+com\patarini\project\web\controller\RegisterController.class
+com\patarini\project\model\User.class
+com\patarini\project\ProjectApplication.class
+com\patarini\project\model\exceptions\PasswordsDoNotMatchException.class
+com\patarini\project\model\exceptions\InvalidUserCredentialsException.class
+com\patarini\project\web\controller\HomeController.class
